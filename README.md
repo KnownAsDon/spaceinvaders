@@ -7,5 +7,5 @@ It is created and designed for linux, as mentioned in the actually main file...s
 Created using python version 3.6.
 
 ## **Screenshots**
-
+![screenshot](https://github.com/KnownAsDon/spaceinvaders/blob/master/screenshots/game_screenshot.png)
 
